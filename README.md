@@ -3,7 +3,7 @@
 
 <h3 align="center">Computer Engineering Student @ Nile University | Backend Architect | DevOps Explorer</h3>
 
-<h3 align="center">I am an aspiring DevOps Engineer with a passion for architecting secure, automate systems. </h3>
+<h3 align="center">I am an aspiring DevOps Engineer with a passion for architecting secure, automated systems. </h3>
 
 <h4 align="center">I'd be delighted to help you with<br><br>
 C# / .NET Backend Architecture 🏗️<br>
