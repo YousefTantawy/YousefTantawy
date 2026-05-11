@@ -1,15 +1,9 @@
+
 <h1 align="center">Hey, I'm Yousef Tantawy <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="30"/></h1>
 
 <h3 align="center">Computer Engineering Student @ Nile University | Backend Architect | DevOps Explorer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GPA-3.56-blue?style=for-the-badge&logo=googlescholar" alt="GPA" />
-  <img src="https://img.shields.io/badge/Focus-High--Availability%20Systems-orange?style=for-the-badge" alt="Focus" />
-</p>
-
 <h3 align="center">I am an aspiring DevOps and Cloud Engineer with a passion for architecting secure, automated, and self-healing systems. </h3>
-
-<h3 align="center">Creator of <b>Heimdall</b> (Intrusion Detection & Autonomous Remediation) and <b>MOTIVE</b> (Adaptive LMS).</h3>
 
 <h4 align="center">I'd be delighted to help you with<br><br>
 C# / .NET Backend Architecture 🏗️<br>
@@ -18,9 +12,6 @@ CI/CD Pipeline Automation (Jenkins) 🚀<br>
 Programming Fundamentals & Robotics Tutoring 🤖<br>
 Linux System Administration 🐧</h4>
 
-<p align="center">
-<img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-</p>
 
 ---
 
@@ -32,9 +23,6 @@ Linux System Administration 🐧</h4>
   </a>
   <a href="https://www.linkedin.com/in/yousef-tantawy-809888275/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/YousefTantawy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
   </a>
 </div>
 
@@ -76,7 +64,7 @@ Linux System Administration 🐧</h4>
 
 ---
 
-<h3 align="center"><b>Major Works</b></h3>
+<h3 align="center"><b>Currently working on</b></h3>
 <div align="center">
   <table>
     <tr>
@@ -97,7 +85,3 @@ Linux System Administration 🐧</h4>
   <img src="https://img.shields.io/github/followers/YousefTantawy?label=Followers&style=flat&logo=github&color=yellow" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/YousefTantawy&query=$.public_repos&label=Public%20Repositories&style=flat&logo=github&color=green" alt="Public Repositories" />
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/YousefTantawy/YousefTantawy/output/snake.svg" alt="snake" /></p>
-
-<p align="center"><img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="15%" alt="Thanks" /></p>
